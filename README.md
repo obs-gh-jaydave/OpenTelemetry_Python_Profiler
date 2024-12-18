@@ -117,7 +117,7 @@ counter.add(1)
 
 ## Monitoring
 
-View your application's telemetry data in Observe.ai:
-1. Log into your Observe  account
+View your application's telemetry data in Observe:
+1. Log into your Observe account
 2. Navigate to the APM section
 3. Look for traces, metrics, and profile data from your application
